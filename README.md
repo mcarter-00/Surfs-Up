@@ -6,5 +6,5 @@ An analysis on Oahu's weather could help determine whether seasons affect the su
 
 In addition to temperature, I would recommend further analysis on:
 * Precipitation to observe quantity and frequency during June and December, and determine whether precipitation plays a factor despite the warm temperatures that are experienced during this time.
-* Elevation to observe and compare in various Oahu locations, and determine whether one location's elevation attracts or deters business more than another location.
+* Elevation to observe and compare in various locations in Oahu, and determine whether one location's elevation attracts or deters business more than another location.
 * Elevation relative to both temperature and precipitation during June and December, and determine whether these metrics coupled together also contribute to business. 
