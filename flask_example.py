@@ -14,5 +14,5 @@ def hello_world():
 # 1. Go to Terminal, and enter 'export FLASK_APP=flask_example.py'
 # 2. Then enter, 'set FLASK_APP=app.py'
 # 3. Then enter, 'flask run'
-# ^^^ prompt IP address --> http://127.0.0.1:5000/
+# ^^^ prompt IP address --> http://127.0.0.1:5000/ or 'localhost:5000'
 
